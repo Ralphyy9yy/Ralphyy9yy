@@ -30,7 +30,7 @@ I love building web apps, exploring new tech, and turning ideas into code!
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
@@ -58,7 +58,7 @@ I love building web apps, exploring new tech, and turning ideas into code!
 
 <!-- Quote or Personal Tagline -->
 <p align="center">
-  💡 *"Code is like humor. When you have to explain it, it’s bad."*
+  💡 *"Code is like a bird — when it swims, you know somethings wrongg 🐞"*
 </p>
 
 ---
