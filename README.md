@@ -11,8 +11,8 @@ I love building web apps, exploring new tech, and turning ideas into code!
 
 - 🎓 **Currently Studying:** Computer Science (2nd Year)
 - 💻 **Languages:** Java, JavaScript, SQL
-- 🌱 **Currently Learning:** TypeScript, Docker, Cloud Deployment
-- ⚡ **Fun Fact:** I love solving puzzles and playing chess!
+- 🌱 **Currently Learning:** MongoDB
+- ⚡ **Fun Fact:** I love sleeping
 
 ---
 
