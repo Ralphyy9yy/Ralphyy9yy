@@ -1,6 +1,6 @@
 <!-- Banner or GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Ralph%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hilo%20pipel%20I'm%20%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- About Me -->
@@ -42,7 +42,7 @@ I love building web apps, exploring new tech, and turning ideas into code!
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ralphyy9yy&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphsuquib&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphyy9yy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
