@@ -40,8 +40,7 @@ I love building web apps, exploring new tech, and turning ideas into code!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ralphyy9yy&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphyy9yy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
