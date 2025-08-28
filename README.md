@@ -1,6 +1,6 @@
 <!-- Banner or GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Good Day %20%20%20%20&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Good Day%20%20%20%20&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- About Me -->
