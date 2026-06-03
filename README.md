@@ -9,7 +9,7 @@
 Hi! I’m **Ralph Giann Suquib**, a passionate **Computer Science student** and aspiring **Full-Stack Developer**.  
 I love building web apps, exploring new tech, and turning ideas into code!
 
-- 🎓 **Currently Studying:** Computer Science (2nd Year)
+- 🎓 **Currently Studying:** Computer Science (4th Year)
 - 💻 **Languages:** Java, JavaScript, SQL
 - 🌱 **Currently Learning:** MongoDB
 - ⚡ **Fun Fact:** I love sleeping
