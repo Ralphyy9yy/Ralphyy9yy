@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20there!&fontSize=42&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi, I'm Ralph Giann Suquib 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" />
 </p>
