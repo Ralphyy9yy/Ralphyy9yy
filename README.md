@@ -58,7 +58,7 @@ I’m a passionate Computer Science student and aspiring Full-Stack Developer wh
   <a href="mailto:giannralph@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ralphsuquib.vercel.app/">
+  <a href="https://www.ralphsuquib.me/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
