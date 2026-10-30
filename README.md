@@ -1,24 +1,45 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ralphyy9yy;Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Building+ideas+into+products" alt="Typing banner" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ralphyy9yy&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Available%20for%20work-Open%20to%20collab-8B5CF6?style=flat-square&logo=rocket&logoColor=white" alt="Open to work" />
+</p>
 
-### 🚀 About Me
-
-I’m a passionate Computer Science student and aspiring Full-Stack Developer who enjoys building web apps, learning new technologies, and turning ideas into practical solutions.
-
-- 🎓 Currently studying: Computer Science
-- 💻 Languages: Java, JavaScript, SQL
-- 🌱 Currently learning: MongoDB, backend development, and API design
-- 🧠 Interests: Full-stack development, UI/UX, and problem solving
-- ⚡ Fun fact: I love sleeping after a long coding session 😴
+<div align="center">
+  <img src="https://github.com/Ralphyy9yy.png" width="180" height="180" alt="Profile avatar" style="border-radius: 50%; border: 3px solid #8B5CF6; box-shadow: 0 0 30px rgba(139,92,246,0.45);" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">👨‍💻 About Me</h3>
+      <p align="left">
+        I'm a passionate Computer Science student and aspiring full-stack developer who enjoys building clean digital experiences,
+        solving real-world problems, and continuously learning new technologies.
+      </p>
+      <p align="left">
+        I love turning ideas into practical products and improving both the user experience and the code behind it.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ Currently</h3>
+      <ul align="left">
+        <li>Studying: Computer Science</li>
+        <li>Learning: MongoDB, backend architecture, and API design</li>
+        <li>Building: Full-stack applications and practical tools</li>
+        <li>Interests: UI/UX, product thinking, and clean code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,12 +60,15 @@ I’m a passionate Computer Science student and aspiring Full-Stack Developer wh
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphyy9yy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Ralphyy9yy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralphyy9yy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -52,20 +76,20 @@ I’m a passionate Computer Science student and aspiring Full-Stack Developer wh
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:giannralph@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.ralphsuquib.me/">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://www.ralphsuquib.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 💡 Quote
+### ✨ Philosophy
 
 <p align="center">
   <i>“Code is not just logic — it’s creativity, problem-solving, and persistence.”</i>
@@ -74,5 +98,5 @@ I’m a passionate Computer Science student and aspiring Full-Stack Developer wh
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ralphyy9yy&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Keep%20Building%20🚀&fontColor=ffffff&fontSize=32&height=120&width=600" alt="Footer banner" />
 </p>
