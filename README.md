@@ -37,9 +37,5 @@
 </p>
 
 <p align="center">
-  <i>“Code is not just logic — it’s creativity, problem-solving, and persistence.”</i>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ralphyy9yy&style=flat-square&color=8B5CF6" alt="Profile views" />
 </p>
