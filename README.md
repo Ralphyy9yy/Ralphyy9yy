@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ralph;Computer+Science+Student;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ralph;Computer+Science+Student;Full-Stack+Developer;Building+Great+Products" alt="Typing text" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
 </p>
 
 <p align="center">
