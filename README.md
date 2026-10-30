@@ -1,37 +1,49 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ralphyy9yy;Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Building+ideas+into+products" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Backend+%26+API+Builder;Problem+Solver;Always+Learning" alt="Typing banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ralphyy9yy&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Available%20for%20work-Open%20to%20collab-8B5CF6?style=flat-square&logo=rocket&logoColor=white" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=Ralphyy9yy&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Available%20for%20work-Open%20to%20collab-7C3AED?style=flat-square&logo=rocket&logoColor=white" alt="Open to work" />
 </p>
 
 <div align="center">
-  <img src="https://github.com/Ralphyy9yy.png" width="180" height="180" alt="Profile avatar" style="border-radius: 50%; border: 3px solid #8B5CF6; box-shadow: 0 0 30px rgba(139,92,246,0.45);" />
+  <img src="https://github.com/Ralphyy9yy.png" width="180" height="180" alt="Profile avatar" style="border-radius: 50%; border: 3px solid #7C3AED; box-shadow: 0 0 30px rgba(124,58,237,0.35);" />
 </div>
+
+---
+
+<h3 align="center">👋 Hello, I'm Ralph</h3>
+
+<p align="center">
+  I’m a Computer Science student and aspiring software engineer focused on building scalable applications,
+  clean backend systems, and thoughtful user experiences.
+</p>
+
+<p align="center">
+  I enjoy turning ideas into practical products, writing maintainable code, and continuously improving my engineering skills.
+</p>
 
 ---
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">👨‍💻 About Me</h3>
-      <p align="left">
-        I'm a passionate Computer Science student and aspiring full-stack developer who enjoys building clean digital experiences,
-        solving real-world problems, and continuously learning new technologies.
-      </p>
-      <p align="left">
-        I love turning ideas into practical products and improving both the user experience and the code behind it.
-      </p>
+      <h3 align="left">💼 Current Focus</h3>
+      <ul align="left">
+        <li>Computer Science student</li>
+        <li>Full-stack application development</li>
+        <li>Backend systems, APIs, and architecture</li>
+        <li>Problem solving and product thinking</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ Currently</h3>
+      <h3 align="left">🧠 Interests</h3>
       <ul align="left">
-        <li>Studying: Computer Science</li>
-        <li>Learning: MongoDB, backend architecture, and API design</li>
-        <li>Building: Full-stack applications and practical tools</li>
-        <li>Interests: UI/UX, product thinking, and clean code</li>
+        <li>Software engineering best practices</li>
+        <li>UI/UX and user-centered design</li>
+        <li>JavaScript, Java, and database systems</li>
+        <li>Continuous learning and practical product building</li>
       </ul>
     </td>
   </tr>
@@ -39,7 +51,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -60,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
@@ -73,7 +85,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
@@ -89,14 +101,10 @@
 
 ---
 
-### ✨ Philosophy
-
 <p align="center">
-  <i>“Code is not just logic — it’s creativity, problem-solving, and persistence.”</i>
+  <i>“Good software is not just functional — it is reliable, thoughtful, and built to last.”</i>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Keep%20Building%20🚀&fontColor=ffffff&fontSize=32&height=120&width=600" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Build%20Better%20Software&fontColor=ffffff&fontSize=30&height=120&width=700" alt="Footer banner" />
 </p>
