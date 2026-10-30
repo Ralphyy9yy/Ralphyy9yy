@@ -39,7 +39,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ralphyy9yy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Repos-8-181717?logo=github&style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Projects-Active-8B5CF6?logo=github&style=for-the-badge" alt="Projects" />
 </p>
 
 <p align="center">
